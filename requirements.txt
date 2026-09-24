@@ -115,3 +115,4 @@ webencodings==0.5.1
 websocket-client==1.9.0
 widgetsnbextension==4.0.16
 zipp==3.23.1
+pyarrow==21.0.0
