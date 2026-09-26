@@ -121,6 +121,8 @@ La lectura conjunta: el clima, y sobre todo la nieve, es real y perceptible, per
 
 `dashboard/vuelos_clima_dashboard.pbix` (exportado también a `dashboard/dashboard.pdf`) recoge lo anterior en un formato explorable:
 
+El informe completo del análisis, con el detalle metodológico y las conclusiones, está en [reports/Informe_final_vuelos_clima.pdf](reports/Informe_final_vuelos_clima.pdf).
+
 - KPIs generales: % puntualidad, % cancelados, % desviados, total de vuelos, retraso medio.
 - Mapa de los 35 aeropuertos de origen, con el volumen de tráfico por tamaño de burbuja.
 - Evolución de vuelos y puntualidad a lo largo del trimestre, con jerarquía de fecha y *drill-down* de mes a día. A nivel mensual se ve con claridad cómo volumen y puntualidad caen juntos en febrero (el mes con más nieve) y se recuperan en marzo; bajando a día se identifican episodios concretos de mal tiempo.
