@@ -60,6 +60,7 @@ vuelos-clima-eda/
 │   └── dashboard.pdf
 │
 ├── reports/
+│   ├──Informe_final_vuelos_clima.pdf
 │   └── figures/
 │
 ├── src/
